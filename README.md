@@ -17,7 +17,7 @@
 
 ## ![img](./Images/greenCheck.png)진행 방식
 
-- **반드시 풀기 전에 git fetch upstream을 한다! **
+- **반드시 풀기 전에 git fetch upstream을 한다!**
 
 - 본인의 레포지토리에서 문제를 풀고 commit 양식을 지켜서 commit한다.
 
